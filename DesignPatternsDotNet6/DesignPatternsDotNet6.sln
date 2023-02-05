@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{9299F2DE-9A74-4DD3-AAD2-4711AC369BCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{9299F2DE-9A74-4DD3-AAD2-4711AC369BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{D9552837-2BE2-4A89-B341-B7D1147E83F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9299F2DE-9A74-4DD3-AAD2-4711AC369BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9299F2DE-9A74-4DD3-AAD2-4711AC369BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9299F2DE-9A74-4DD3-AAD2-4711AC369BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9552837-2BE2-4A89-B341-B7D1147E83F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9552837-2BE2-4A89-B341-B7D1147E83F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9552837-2BE2-4A89-B341-B7D1147E83F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9552837-2BE2-4A89-B341-B7D1147E83F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

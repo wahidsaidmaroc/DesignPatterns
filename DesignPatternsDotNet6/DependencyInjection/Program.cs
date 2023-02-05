@@ -1,27 +1,27 @@
-﻿//Etape 1 :
+﻿////Etape 1 :
 
 using DependencyInjection;
 
 
 
-/:IPiece  piece = new IPiece();
+//IPiece  piece = new Piece();
 
-// Mais on peut
-// Si je veux des commande 
+//// Mais on peut
+//// Si je veux des commande 
 
 BonCommande pieceCmm = new BonCommande();
 pieceCmm.Total();
 
-//Si je veux des Factures
+////Si je veux des Factures
 
-IPiece pieceFacture = new Facture();
-pieceFacture.Total();
+//IPiece pieceFacture = new Facture();
+//pieceFacture.Total();
 
 
-GestionPiece gestionPiece = new GestionPiece(new BonCommande());
+//GestionPiece gestionPiece = new GestionPiece(new BonCommande());
 
-gestionPiece.Calculer();
+//gestionPiece.Calculer();
 
-GestionPiece gestionPiece1 = new GestionPiece(new Facture());
+//GestionPiece gestionPiece1 = new GestionPiece(new Facture());
 
-gestionPiece1.Calculer();
+//gestionPiece1.Calculer();
