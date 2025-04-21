@@ -56,11 +56,13 @@ public class Director
 
     public void ConstructHouse()
     {
-        _builder.BuildRooms(4);
+        _builder.BuildRooms(5);
         _builder.BuildRoof("Gable");
         _builder.BuildWindows(10);
     }
 }
+
+
 
 class Program
 {
@@ -73,5 +75,11 @@ class Program
         House house = builder.GetHouse();
 
         Console.WriteLine(house);
+
+
+
+
+
+
     }
 }

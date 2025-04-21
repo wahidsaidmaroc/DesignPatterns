@@ -10,22 +10,6 @@ WordDocument clonedDoc = (WordDocument)originalDoc.Clone();
 
 Console.WriteLine($"Title: {clonedDoc.Title}, Content: {clonedDoc.Content}, Feature: {clonedDoc.WordSpecificFeature}");
 
-
-
-public abstract class Document
-{
-    public string Title { get; set; }
-    public string Content { get; set; }
-
-    public Document(string title, string content)
-    {
-        Title = title;
-        Content = content;
-    }
-
-    public abstract Document Clone();
-}
-
 public class WordDocument : Document
 {
     public string WordSpecificFeature { get; set; }
