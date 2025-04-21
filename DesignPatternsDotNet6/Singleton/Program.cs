@@ -5,6 +5,10 @@ using System.Net.WebSockets;
 Console.WriteLine("Hello, World!");
 
 
+ActionHelper.GetInstance().AjouterAction();
+
+
+
 ClientService clientService = new ClientService();
 
 clientService.AjouterClient();
