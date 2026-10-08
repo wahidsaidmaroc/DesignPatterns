@@ -16,4 +16,9 @@ public class ClientService
             throw new Exception("Singleton instance already exists.");
         }
     }
+
+    public void Add()
+    {
+        Console.Write("Je suis said WAHID");
+    }
 }
