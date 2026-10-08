@@ -1,0 +1,45 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Demo01-Logger/" />
+  <Folder Name="/src/Demo01-Logger/After/">
+    <Project Path="src/Demo01-Logger/After/Singleton.01-Logger.After/Singleton.01-Logger.After.csproj" />
+  </Folder>
+  <Folder Name="/src/Demo01-Logger/Before/">
+    <Project Path="src/Demo01-Logger/Before/Singleton.01-Logger.Before/Singleton.01-Logger.Before.csproj" />
+  </Folder>
+  <Folder Name="/src/Demo02-ConfigurationManager/" />
+  <Folder Name="/src/Demo02-ConfigurationManager/After/">
+    <Project Path="src/Demo02-ConfigurationManager/After/Singleton.02-ConfigurationManager.After/Singleton.02-ConfigurationManager.After.csproj" />
+  </Folder>
+  <Folder Name="/src/Demo02-ConfigurationManager/Before/">
+    <Project Path="src/Demo02-ConfigurationManager/Before/Singleton.02-ConfigurationManager.Before/Singleton.02-ConfigurationManager.Before.csproj" />
+  </Folder>
+  <Folder Name="/src/Demo03-CacheManager/" />
+  <Folder Name="/src/Demo03-CacheManager/After/">
+    <Project Path="src/Demo03-CacheManager/After/Singleton.03-CacheManager.After/Singleton.03-CacheManager.After.csproj" />
+  </Folder>
+  <Folder Name="/src/Demo03-CacheManager/Before/">
+    <Project Path="src/Demo03-CacheManager/Before/Singleton.03-CacheManager.Before/Singleton.03-CacheManager.Before.csproj" />
+  </Folder>
+  <Folder Name="/src/Demo04-PrinterManager/" />
+  <Folder Name="/src/Demo04-PrinterManager/After/">
+    <Project Path="src/Demo04-PrinterManager/After/Singleton.04-PrinterManager.After/Singleton.04-PrinterManager.After.csproj" />
+  </Folder>
+  <Folder Name="/src/Demo04-PrinterManager/Before/">
+    <Project Path="src/Demo04-PrinterManager/Before/Singleton.04-PrinterManager.Before/Singleton.04-PrinterManager.Before.csproj" />
+  </Folder>
+  <Folder Name="/src/Demo05-CounterService/" />
+  <Folder Name="/src/Demo05-CounterService/After/">
+    <Project Path="src/Demo05-CounterService/After/Singleton.05-CounterService.After/Singleton.05-CounterService.After.csproj" />
+  </Folder>
+  <Folder Name="/src/Demo05-CounterService/Before/">
+    <Project Path="src/Demo05-CounterService/Before/Singleton.05-CounterService.Before/Singleton.05-CounterService.Before.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Singleton.Cache.Tests/Singleton.Cache.Tests.csproj" />
+    <Project Path="tests/Singleton.Configuration.Tests/Singleton.Configuration.Tests.csproj" />
+    <Project Path="tests/Singleton.Counter.Tests/Singleton.Counter.Tests.csproj" />
+    <Project Path="tests/Singleton.Logger.Tests/Singleton.Logger.Tests.csproj" />
+    <Project Path="tests/Singleton.Printer.Tests/Singleton.Printer.Tests.csproj" />
+  </Folder>
+</Solution>

@@ -128,13 +128,13 @@ DesignPatterns-Training
 This course is designed primarily around:
 
 - C#
-- .NET 9
+- .NET 10
 - ASP.NET Core
 - Entity Framework Core
 - SQL Server
 - MediatR
 - Git & GitHub
-- Visual Studio 2022
+- Visual Studio 2026 Community
 
 ---
 
@@ -184,7 +184,9 @@ After completing this training, participants will be able to:
 
 **Chief Technology Officer (CTO) - Teknologiate**
 
-**Founder - ZoneToLearn Academy**
+**Founder - Zone-ToLearn Academy**
+**Founder - Teknologiate**
+**Founder - Tekno Cloud**
 
 **Software Architect | Cloud Consultant | Trainer**
 
@@ -194,9 +196,9 @@ After completing this training, participants will be able to:
 
 📧 Email: your-email@domain.com
 
-🌐 Website: https://www.zonetolearn.ma
+🌐 Website: https://www.zone-tolearn.ma
 
-🌐 Company: https://www.teknologiate.ma
+🌐 Company: https://www.teknologiate.com
 
 💼 LinkedIn: https://www.linkedin.com/in/saidwahid
 
