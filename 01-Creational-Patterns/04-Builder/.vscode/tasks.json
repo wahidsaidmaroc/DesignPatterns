@@ -1,0 +1,22 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build DesignPattern.Builder",
+			"type": "shell",
+			"command": "dotnet",
+			"args": [
+				"build",
+				".\\DesignPattern.Builder\\DesignPattern.Builder.sln",
+				"--configuration",
+				"Release",
+				"--warnaserror"
+			],
+			"isBackground": false,
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build"
+		}
+	]
+}
