@@ -195,13 +195,12 @@ After completing this training, participants will be able to:
 
 ## Contact Information
 
-📧 Email: your-email@domain.com
 
-🌐 Website: https://www.zone-tolearn.ma
+🌐 Website: https://www.zone-tolearn.com
 
 🌐 Company: https://www.teknologiate.com
 
-💼 LinkedIn: https://www.linkedin.com/in/saidwahid
+💼 LinkedIn: https://www.linkedin.com/in/said-wahid-a0927715/
 
 📍 Morocco
 
