@@ -7,15 +7,12 @@ public class CarBuilder
     public CarBuilder SetBrand(string brand)
     {
         _car.Brand = brand;
-        Console.WriteLine($"→ Brand : {brand}");
-        // this permet de continuer la configuration sur le même Builder.
         return this;
     }
 
     public CarBuilder SetModel(string model)
     {
         _car.Model = model;
-        Console.WriteLine($"→ Model : {model}");
         return this;
     }
 
@@ -36,14 +33,12 @@ public class CarBuilder
     public CarBuilder AddGps()
     {
         _car.GPS = true;
-        Console.WriteLine("→ GPS : Activé");
         return this;
     }
 
     public CarBuilder AddCamera()
     {
         _car.Camera = true;
-        Console.WriteLine("→ Camera : Activée");
         return this;
     }
 

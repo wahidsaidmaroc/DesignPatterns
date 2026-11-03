@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Singleton._01_Logger.After;
+﻿namespace Singleton._01_Logger.After;
 
 public sealed class Logger
 {
